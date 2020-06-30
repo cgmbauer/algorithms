@@ -77,9 +77,9 @@ function userPositionOnTheRank(scoreRanks) {
 
 }
 
-let linhas = ' 2, 5 10, 6, 5 1 5 7 1 8 ';
+let inputLine = ' 2, 5 10, 6, 5 1 5 7 1 8 ';
 
-let theFinalArray = treatInput(linhas);
+let theFinalArray = treatInput(inputLine);
 
 let scoreRanks = scoreRanksFunc(theFinalArray);
 
