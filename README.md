@@ -1,6 +1,7 @@
 # Algorithms Challenges
 
-Challenges from [Hacker Rank](https://www.hackerrank.com/) or something that I came up.
+Challenges from [Hacker Rank](https://www.hackerrank.com/) or something that I came up.  
+All made using JavaScript
 
 
 ## Problems directories and explanations
