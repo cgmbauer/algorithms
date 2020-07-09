@@ -9,4 +9,4 @@ Challenges from [Hacker Rank](https://www.hackerrank.com/) or something that I c
   - [Climbing the leaderboard explanation](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)
 
 - **[Extra Long Factorials directory](https://github.com/cgmbauer/algorithms/tree/master/extra_long_factorials)**  
-  -[Extra Long Factorials explanation](https://www.hackerrank.com/challenges/extra-long-factorials/problem)
+  - [Extra Long Factorials explanation](https://www.hackerrank.com/challenges/extra-long-factorials/problem)
